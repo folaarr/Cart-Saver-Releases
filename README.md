@@ -1,19 +1,35 @@
 # Cart Saver Releases
 
-**Cart Saver** is an Android app designed for physical businesses to save unpaid customer carts, serve other customers, and retrieve saved carts when customers are ready to pay.
+**Download Cart Saver for Android**
+
+Cart Saver is a mobile app designed for physical businesses where customers may receive their items or services before completing payment. It allows business owners and cashiers to save unpaid customer carts, serve other customers, and retrieve saved carts when it's time to complete payment.
 
 ## Download
 
-[**Download Cart Saver for Android**](https://github.com/folaarr/Cart-Saver-Releases/releases/download/v1.0.1/Cart-Saver-v1.0.1.apk)
+**[Download Cart Saver for Android](https://github.com/folaarr/Cart-Saver-Releases/releases/download/v1.0.1/Cart-Saver-v1.0.1.apk)**
 
-Visit the [Releases page](https://github.com/folaarr/Cart-Saver-Releases/releases) to download the latest APK and view version updates.
+Browse the available releases to download an APK. Each release includes its version information and any changes made in that version.
 
 ## Installation
 
-1. Download the APK to your Android device.
-2. Open the downloaded file and follow the installation instructions.
-3. If prompted, allow installation from that source in your Android settings.
+1. Download the APK file from the [Releases page](https://github.com/folaarr/Cart-Saver-Releases/releases).
+2. Open the downloaded APK on your Android device.
+3. If prompted, allow your device or browser to install apps from that source.
+4. Follow the on-screen instructions to complete the installation.
+5. Open Cart Saver and start using the app.
+
+Your Android device may display a security warning when installing an APK downloaded outside Google Play. Only install APKs from sources you trust.
+
+## Version History
+
+Visit the [Releases page](https://github.com/folaarr/Cart-Saver-Releases/releases) to explore available versions and read their release notes.
+
+## Support and Feedback
+
+Found a bug or have a suggestion? Contact us at **[contact@foladevelops.com](mailto:contact@foladevelops.com)**.
 
 ---
 
 Developed by **FolaDevelops**.
+
+
