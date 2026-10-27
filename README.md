@@ -6,7 +6,7 @@ Cart Saver is a mobile app designed for physical businesses where customers may 
 
 ## Download
 
-**[Download Cart Saver for Android](https://github.com/folaarr/Cart-Saver-Releases/releases/download/v1.0.1/Cart-Saver-v1.0.1.apk)**
+**[Download Cart Saver for Android](https://github.com/folaarr/Cart-Saver-Releases/releases/download/v1.1.0/Cart-Saver-v1.1.0.apk)**
 
 Browse the available releases to download an APK. Each release includes its version information and any changes made in that version.
 
